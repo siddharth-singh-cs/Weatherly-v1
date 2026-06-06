@@ -69,4 +69,4 @@ Computer Science Student | Aspiring Software Developer
 
 ## 🌐 Live Demo
 
-Coming Soon...
+https://siddharth-singh-cs.github.io/Weatherly-v1/
