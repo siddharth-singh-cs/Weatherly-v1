@@ -70,3 +70,5 @@ Computer Science Student | Aspiring Software Developer
 ## 🌐 Live Demo
 
 https://siddharth-singh-cs.github.io/Weatherly-v1/
+
+## Note: This is a completely vibe coded project.
